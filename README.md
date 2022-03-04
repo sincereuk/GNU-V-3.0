@@ -1,2 +1,0 @@
-# automatic-memory
-automatic-memory
